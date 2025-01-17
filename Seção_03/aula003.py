@@ -1,5 +1,5 @@
 """
-Python = Linguagem de pregramação 
+Python = Linguagem de programação 
 Tipo de tipagem = Dinâmica / Forte
 str -> string -> texto
 Strings são textos que estão de aspas
