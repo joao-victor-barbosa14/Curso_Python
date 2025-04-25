@@ -5,7 +5,7 @@ Calculadora com while
 while True:
     numero_01 = int(input('Escolha um número: '))
     numero_02 = int(input('Escolha outro número: '))
-    expre_aritca = input('Escolha uma expresão aritimética: ')
+    expre_aritca = input('Escolha um operador: ')
     
     if expre_aritca == '+':
         soma01 = (numero_01 + numero_02)
